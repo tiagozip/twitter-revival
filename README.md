@@ -1,5 +1,3 @@
-<img src="docs/img/logo.svg" width="64" height="64" alt="A chubby blue pixel art bird">
-
 <h1>Twitter Revival</h1>
 
 A project to make the old Twitter for Android apps work again!
