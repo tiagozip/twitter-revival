@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+set -euo pipefail
+sed -i.sedi "$@"
+for arg in "$@"; do
+  [ -f "$arg.sedi" ] && rm -f "$arg.sedi"
+done
+exit 0

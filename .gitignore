@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+apps/*/build/
+keys/
+work/
+.env
+.secret
+server/data/
+server/requests.log

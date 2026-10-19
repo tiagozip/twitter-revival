@@ -1,0 +1,13 @@
+{
+  "name": "twitter-revival-server",
+  "version": "0.1.0",
+  "type": "module",
+  "license": "AGPL-3.0-only",
+  "scripts": {
+    "start": "bun run src/server.js",
+    "lint": "biome lint src"
+  },
+  "dependencies": {
+    "emusks": "^2.3.20"
+  }
+}
